@@ -7,6 +7,8 @@ This repository contains code links & demo for [Auto-Split: A General Framework 
 A notebook to view and run the code is available at (similar to Google colab): <br />
 https://marketplace.huaweicloud.com/markets/aihub/notebook/detail/?id=5fad1eb4-50b2-4ac9-bcb0-a1f744cf85c7
 
+Demo: 
+
 Paper on arxiv: https://arxiv.org/abs/2108.13041
 
 Citation:
